@@ -1,1 +1,1 @@
-# entropy
+# entropy_of_origianl_and_coarsened_graph
